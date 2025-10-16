@@ -1,0 +1,9 @@
+[package]
+name = "shhh"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.100"
+cpal = "0.14"
+ctrlc = "3.5.0"
